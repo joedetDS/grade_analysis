@@ -1,6 +1,3 @@
-# grade_analysis
-to study, analyse and identify the determinants leading to students consistently achieving first-class distinctions
-
 # Grade Analysis Dataset ReadMe
 
 ## Overview
